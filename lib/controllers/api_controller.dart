@@ -7,7 +7,7 @@ import './database_controller.dart';
 class ApiController {
   static ApiController _apiController;
   static String _apiHost = 'https://api.themoviedb.org/3/discover/movie';
-  static String _apiKey = '886c292a667693f5c58e54e21158451a';
+  static String _apiKey = 'Place_your_apikey_here';
   static String _language = 'en-US';
   static String _sortBy = "release_date.desc";
   static DateTime _now = DateTime.now();

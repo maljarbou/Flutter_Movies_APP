@@ -10,7 +10,7 @@ On the 14th of January 2019, I attended google flutter event which was a great e
 4 days were spent on this project. I definitely don't regret any moment doing this application as it benefited me a lot with my learning.
 
 ## Installation
-Option # 1 - You can download this repository and modify the apiKey in /lib/controller/api_controller.dart and run it.<br />
+Option # 1 - You can download this repository and modify the apiKey in /lib/controllers/api_controller.dart and run it.<br />
 Option # 2 (Android only) - If you only need to test the application in your android phone head to /final_build and dowbload the apk file there.
 
 ## Images
